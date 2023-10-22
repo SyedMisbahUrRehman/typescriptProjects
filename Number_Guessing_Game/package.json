@@ -1,0 +1,16 @@
+{
+  "name": "number_guessing_game",
+  "version": "1.0.0",
+  "description": "A simple number guessing game built with TypeScript",
+  "main": "main.ts",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-rainbow": "^1.0.0"
+  }
+}
